@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Akina Pallera"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Hello! I am a freshman currently studying Mechanical Engineering with a minor in Criminal Justice and concentration in Aerospace. I plan to use my degree to pursue a path in the automotive or motorsport industry."
+  location         : "Washington D.C."
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "akina.pallera@gwu.edu" 
 
   # Academic websites
   academia         : # URL

@@ -15,6 +15,12 @@ Technical Skills
 
 **Programming Language Proficiency:** Python, MATLAB
 
+Projects
+======
+**Base Plate** (AutoCAD) — Designed a fully dimensioned base plate following drafting standards.
+
+**Flanged Coupling** (SolidWorks) — Modeled a detailed 3D part suitable for assembly.
+
 Experience
 ======
 **TARGET**, Team Member, November, 2023 - Present
@@ -32,11 +38,4 @@ Organized documents containing case files and managed confidential information, 
 Greeted an average of 100 guests per day, communicated amongst a team of 5 servers to maintain a positive work environment, developed and maintained relationships with recurring customers.
 Operated a digital reservation system to optimize seating efficiency, managed phone systems to communicate with customers, maintained accurate records of guest seating, and processed payments using POS and order-entry systems.
 
-
-
-Projects
-------
-**Base Plate** (AutoCAD) — Designed a fully dimensioned base plate following drafting standards.
-
-**Flanged Coupling** (SolidWorks) — Modeled a detailed 3D part suitable for assembly.
 

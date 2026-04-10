@@ -11,9 +11,9 @@ Hello! My name is Akina Pallera and I am from Minot, ND. I am currently a Freshm
 
 Technical Skills
 ======
-Computer Skills: AutoCAD, SolidWorks, Microsoft Office Suite, Google Suites
+**Computer Skills:** AutoCAD, SolidWorks, Microsoft Office Suite, Google Suites
 
-Programming Language Proficiency: Python, MATLAB
+**Programming Language Proficiency:** Python, MATLAB
 
 Experience
 ======

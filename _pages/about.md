@@ -18,22 +18,28 @@ Programming Language Proficiency: Python, MATLAB
 Experience
 ======
 TARGET, Team Member, November, 2023 - Present
+
 Provided customer support in a department averaging $10,000 in daily sales, trained 5 new employees in department knowledge, balanced and maintained part-time schedule with full-time academics.
 Supported operations across several departments by adapting quickly to shifting priorities and using Target’s PDA device to fulfill guest requests efficiently, utilized inventory and workflow systems to manage product locations and backroom tasks, and collaborated with team members to ensure store efficiency.
 
 WARD COUNTY STATE’S ATTORNEY OFFICE, Intern, October 2024 - December 2024
+
 Reviewed and filed 5+ affidavits per week, supported attorneys in 10 trials, observed 30+ criminal court proceedings.
 Organized documents containing case files and managed confidential information, performed database searches to support attorneys with trial preparation, utilized Microsoft Word to create documents presented in court, and managed departmental financial spending through Microsoft Excel.
 
 OISHII RAMEN, Hostess, October 2021 - July 2023
+
 Greeted an average of 100 guests per day, communicated amongst a team of 5 servers to maintain a positive work environment, developed and maintained relationships with recurring customers.
 Operated a digital reservation system to optimize seating efficiency, managed phone systems to communicate with customers, maintained accurate records of guest seating, and processed payments using POS and order-entry systems.
 
 
 
-Site-wide configuration
+Projects
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**Base Plate** | AutoCAD | Designed a fully dimensioned base plate in AutoCAD, applying drafting standards to produce a manufactural 2D technical drawing.
+
+**Flanged Coupling** | SolidWorks | Modeled a flanged coupling in SolidWorks, creating a detailed 3D part suitable for assembly.
+
 
 Create content & metadata
 ------

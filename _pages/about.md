@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Akina Pallera and I am from Minot, ND. I am currently a Freshman stuying Mechanical and Aerospace Engineering with a minor in Criminal Justice at The George Washington University. I plan to use my degree to pursue a path in the automotive or motorsport industry. Alongside school I am also a flyer on the GW Cheer team and play the violin in the GW Orchestra.
+Hello! My name is Akina Pallera and I am from Minot, ND. I am currently a Freshman stuying Mechanical and Aerospace Engineering with a minor in Criminal Justice at The George Washington University. I plan to use my degree to pursue a path in the automotive or motorsport industry. Alongside school I am also a flyer on the GW Cheer team and play the violin in the GW Orchestra.test
 
 Experience
 ======

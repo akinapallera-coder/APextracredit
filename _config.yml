@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_6178"
+  avatar           : "bio-photo.jpg"
   name             : "Akina Pallera"
   pronouns         : "she/her"  
   bio              : #

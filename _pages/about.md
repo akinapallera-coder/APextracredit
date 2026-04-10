@@ -36,7 +36,7 @@ Operated a digital reservation system to optimize seating efficiency, managed ph
 
 Projects
 ------
-**Base Plate** | AutoCAD | Designed a fully dimensioned base plate in AutoCAD, applying drafting standards to produce a manufactural 2D technical drawing.
+**Base Plate** (AutoCAD) — Designed a fully dimensioned base plate following drafting standards.
 
-**Flanged Coupling** | SolidWorks | Modeled a flanged coupling in SolidWorks, creating a detailed 3D part suitable for assembly.
+**Flanged Coupling** (SolidWorks) — Modeled a detailed 3D part suitable for assembly.
 

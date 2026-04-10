@@ -26,8 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Akina Pallera"
   pronouns         : "she/her"  
-  bio              : "Hello! I am a freshman currently studying Mechanical Engineering with a minor in Criminal Justice and concentration in Aerospace. I plan to use my degree to pursue a path in the automotive or motorsport industry."
-  location         : "Washington D.C."
+  bio              : #
   employer         : "The George Washington University"
   uri              : # URL
   email            : "akina.pallera@gwu.edu" 

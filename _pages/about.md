@@ -19,10 +19,15 @@ Provided customer support in a department averaging $10,000 in daily sales, trai
 Supported operations across several departments by adapting quickly to shifting priorities and using Target’s PDA device to fulfill guest requests efficiently, utilized inventory and workflow systems to manage product locations and backroom tasks, and collaborated with team members to ensure store efficiency.
 
 WARD COUNTY STATE’S ATTORNEY OFFICE
+
 Minot, ND
+
 Intern
+
 October 2024 - December 2024
+
 Reviewed and filed 5+ affidavits per week, supported attorneys in 10 trials, observed 30+ criminal court proceedings.
+
 Organized documents containing case files and managed confidential information, performed database searches to support attorneys with trial preparation, utilized Microsoft Word to create documents presented in court, and managed departmental financial spending through Microsoft Excel.
 
 OISHII RAMEN

@@ -9,6 +9,12 @@ redirect_from:
 
 Hello! My name is Akina Pallera and I am from Minot, ND. I am currently a Freshman stuying Mechanical and Aerospace Engineering with a minor in Criminal Justice at The George Washington University. I plan to use my degree to pursue a path in the automotive or motorsport industry. Alongside school I am also a flyer on the GW Cheer team and play the violin in the GW Orchestra.
 
+Technical Skills
+======
+Computer Skills: AutoCAD, SolidWorks, Microsoft Office Suite, Google Suites
+
+Programming Language Proficiency: Python, MATLAB
+
 Experience
 ======
 TARGET, Team Member, November, 2023 - Present
@@ -24,14 +30,6 @@ Greeted an average of 100 guests per day, communicated amongst a team of 5 serve
 Operated a digital reservation system to optimize seating efficiency, managed phone systems to communicate with customers, maintained accurate records of guest seating, and processed payments using POS and order-entry systems.
 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------

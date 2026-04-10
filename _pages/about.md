@@ -1,26 +1,37 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hello! My name is Akina Pallera and I am from Minot, ND. I am currently a Freshman stuying Mechanical and Aerospace Engineering with a minor in Criminal Justice at The George Washington University. I plan to use my degree to pursue a path in the automotive or motorsport industry. Alongside school I am also a flyer on the GW Cheer team and play the violin in the GW Orchestra.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+Experience
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+TARGET
+Minot, ND
+Team Member
+November, 2023 - Present
+Provided customer support in a department averaging $10,000 in daily sales, trained 5 new employees in department knowledge, balanced and maintained part-time schedule with full-time academics.
+Supported operations across several departments by adapting quickly to shifting priorities and using Target’s PDA device to fulfill guest requests efficiently, utilized inventory and workflow systems to manage product locations and backroom tasks, and collaborated with team members to ensure store efficiency.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+WARD COUNTY STATE’S ATTORNEY OFFICE
+Minot, ND
+Intern
+October 2024 - December 2024
+Reviewed and filed 5+ affidavits per week, supported attorneys in 10 trials, observed 30+ criminal court proceedings.
+Organized documents containing case files and managed confidential information, performed database searches to support attorneys with trial preparation, utilized Microsoft Word to create documents presented in court, and managed departmental financial spending through Microsoft Excel.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+OISHII RAMEN
+Minot, ND
+Hostes
+October 2021 - July 2023
+Greeted an average of 100 guests per day, communicated amongst a team of 5 servers to maintain a positive work environment, developed and maintained relationships with recurring customers.
+Operated a digital reservation system to optimize seating efficiency, managed phone systems to communicate with customers, maintained accurate records of guest seating, and processed payments using POS and order-entry systems.
+
 
 Getting started
 ======
